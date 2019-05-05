@@ -1,7 +1,7 @@
 """
 yep, the typical hello world file 
 written in Vim
-To start my offical python learning journey
+To start my official python learning journey
 
 Author: Xu Haoran
 Date:2019-05-05
